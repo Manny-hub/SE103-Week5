@@ -1,0 +1,13 @@
+Student Name: Ayomide Adeyeye
+
+What grep helped me do:
+grep helped me search for specific text or patterns within files. It allowed me to find matching lines without having to read the entire file.
+
+What find helped me do:
+find helped me search for files and directories based on conditions such as their name or location. It is useful for locating a specific file within a directory structure.
+
+What the pipe helped me do:
+The pipe (`|`) helped me pass the output of one command directly to another command as input. This allows multiple commands to be combined to perform a task step by step.
+
+Difference between > and >>:
+The `>` operator redirects output to a file and replaces the existing contents of that file. The `>>` operator also redirects output to a file, but it adds the new output to the end of the existing contents.
