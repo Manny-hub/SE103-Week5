@@ -1,0 +1,5 @@
+Project owner: Ayomide Adeyeye
+Shell exercise for SE103-Week5
+My first attempt had an error due to wrong naming
+I fixed it and got a success result
+Saving outputs helps me review

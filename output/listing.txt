@@ -1,0 +1,5 @@
+total 12
+drwxrwxr-x 2 dell dell 4096 Sep 30 21:50 .
+drwxrwxr-x 7 dell dell 4096 Sep 30 18:17 ..
+-rw-rw-r-- 1 dell dell    0 Sep 30 18:28 .gitkeep
+-rw-rw-r-- 1 dell dell  179 Sep 30 21:53 journal.txt
