@@ -1,0 +1,13 @@
+Student Name: Ayomide Adeyeye
+
+What I practiced in the shell:
+I practiced using shell commands to work with files and directories. I learned how to create, view, copy, move, and remove files using the terminal. I also practiced commands such as `grep` and `find` to search for information and files. I used pipes to pass the output of one command into another command. I also practiced using wildcards and learned to check matching files before performing actions on them.
+
+How GitHub changed my submission habits:
+GitHub taught me to keep my work organized in a repository. I learned that files should be added, committed, and pushed so that my work is properly recorded and available remotely. I also became more careful about using clear commit messages to describe what I changed. I learned to check my repository and commit history to make sure the required files were actually submitted. This made me more careful about verifying my work before considering an assignment complete.
+
+One mistake I made and how I fixed it:
+One mistake I made was having difficulty confirming whether a required file was included in the correct Git commit. I used Git commands such as `git show` and `git ls-tree` to check the commit and verify the file path. I found that the file was actually present in the commit, so I learned how to inspect Git history instead of assuming that a grader message was correct. This helped me understand how to verify my work directly in Git.
+
+Why the repository name had to be exactly SE103-Week5:
+The repository name had to be exactly `SE103-Week5` because it was the required name for the Week 5 project. Using the exact name makes it easier for the course system or grader to identify and evaluate the correct repository.
