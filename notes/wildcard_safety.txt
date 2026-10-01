@@ -1,0 +1,10 @@
+Student Name: Ayomide Adeyeye
+
+What * meant in my pattern:
+The `*` wildcard matched any sequence of characters. It allowed me to work with multiple files that matched a particular pattern.
+
+Why I listed matches before copying:
+I listed the matching files first so I could confirm that the wildcard selected the files I actually intended to copy. This helped me avoid accidentally copying unrelated files.
+
+Why wildcards are dangerous with delete commands:
+Wildcards can match multiple files at once, so using them with delete commands can remove more files than intended. A small mistake in the pattern can cause important files to be deleted. I should always check the matching files before using a wildcard with a destructive command.
